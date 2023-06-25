@@ -10,23 +10,69 @@
       "country": "sdf",
       "address": "er",
       "id": 1
+    },
+    {
+      "username": "bayan",
+      "password": "123123",
+      "email": "bayan@bayan.com",
+      "city": "n",
+      "postalCode": "nn",
+      "phone": "n",
+      "country": "n",
+      "address": "n",
+      "id": 2
+    },
+    {
+      "username": "sara",
+      "password": "123123",
+      "email": "sara@bayan.com",
+      "city": "f",
+      "postalCode": "f",
+      "phone": "f",
+      "country": "d",
+      "address": "f",
+      "id": 3
     }
   ],
   "carts": [
     {
       "userId": 1,
-      "cartItems": [
+      "cartItems": [],
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "cartItems": [],
+      "id": 2
+    },
+    {
+      "userId": 3,
+      "cartItems": [],
+      "id": 3
+    }
+  ],
+  "orders": [
+    {
+      "userId": 1,
+      "orderItems": [
         {
           "name": "Maybelline Face Studio Master Hi-Light Light Booster Bronzer",
           "image": "https://d3t32hsnjxo7q6.cloudfront.net/i/991799d3e70b8856686979f8ff6dcfe0_ra,w158,h184_pa,w158,h184.png",
           "quantity": 1,
           "price": "14.99",
           "id": 495
-        },
+        }
+      ],
+      "total": "14.99",
+      "id": 1
+    },
+    {
+      "userId": 3,
+      "orderItems": [
         {
           "name": "Maybelline Fit Me Bronzer",
           "image": "https://d3t32hsnjxo7q6.cloudfront.net/i/d4f7d82b4858c622bb3c1cef07b9d850_ra,w158,h184_pa,w158,h184.png",
-          "quantity": 2,
+          "quantity": 1,
           "price": "10.29",
           "id": 488
         },
@@ -45,8 +91,36 @@
           "id": 468
         }
       ],
-      "id": 1
+      "total": "41.27",
+      "id": 2
+    },
+    {
+      "userId": 3,
+      "orderItems": [
+        {
+          "name": "Maybelline Facestudio Master Contour Kit",
+          "image": "https://d3t32hsnjxo7q6.cloudfront.net/i/4f731de249cbd4cb819ea7f5f4cfb5c3_ra,w158,h184_pa,w158,h184.png",
+          "quantity": 1,
+          "price": "15.99",
+          "id": 477
+        },
+        {
+          "name": "Maybelline Fit Me Bronzer",
+          "image": "https://d3t32hsnjxo7q6.cloudfront.net/i/d4f7d82b4858c622bb3c1cef07b9d850_ra,w158,h184_pa,w158,h184.png",
+          "quantity": 1,
+          "price": "10.29",
+          "id": 488
+        },
+        {
+          "name": "Maybelline Face Studio Master Hi-Light Light Booster Bronzer",
+          "image": "https://d3t32hsnjxo7q6.cloudfront.net/i/991799d3e70b8856686979f8ff6dcfe0_ra,w158,h184_pa,w158,h184.png",
+          "quantity": 1,
+          "price": "14.99",
+          "id": 495
+        }
+      ],
+      "total": "41.27",
+      "id": 3
     }
-  ],
-  "orders": []
+  ]
 }
