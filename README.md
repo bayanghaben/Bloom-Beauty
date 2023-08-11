@@ -23,11 +23,14 @@ Here are the key highlights:
 💄 Captivating Visuals: Immerse yourself in our coherent and visually appealing interface, from the elegant header to the captivating landing section.
 
 🌟 Engaging Landing Section: Discover Top-rated products, Testimonials, get to know Our Team and Watch an inspirational YouTube video. Get ready to be inspired!
+![image](https://github.com/bayanghaben/Bloom-Beauty/assets/127290963/2d964e16-88b5-47ff-8c72-845adb37190f)
 
 🔒 Registration/Login: Sign up effortlessly with our data validation and user data storage.
 
 
 💅 Extensive Product Range: Explore our vast collection of makeup essentials with stunning product images and an intuitive image slider.
+![image](https://github.com/bayanghaben/Bloom-Beauty/assets/127290963/faa815b4-4f3b-4201-b336-bab82e68ae1b)
+
 
 📅 Easy Order
 👤 Personalized Profile: Access your profile section to show you Order history, view user information.
